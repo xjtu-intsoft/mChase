@@ -1,1 +1,1 @@
-# mChase: a large scale text-to-sql dataset
+# mChase.github.io
