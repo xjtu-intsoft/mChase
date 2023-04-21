@@ -29,7 +29,7 @@ document.writeln("    </tr>");
 document.writeln("    <tr style=\"display:none\" id=\"tr1\" >");
 document.writeln("        <td></td>");
 document.writeln("        <td colspan=\"4\">");
-document.writeln("          <p  align=\"left\"><b>Model:</b> Base </p>");
+document.writeln("          <p  align=\"left\"><b>Model:</b> Baseline </p>");
 document.writeln("          <p  align=\"left\"><b>Affliation:</b> Xi'an Jiaotong University</p>");
 document.writeln("          <p  align=\"left\"><b>Dev Question Match:</b> 0.4066</p>");
 document.writeln("          <p  align=\"left\"><b>Dev Interaction Match:</b> 0.1850</p>");
