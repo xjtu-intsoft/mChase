@@ -1,0 +1,10 @@
+#banner{width:100%;background-color:#294b6a;padding-top:15px;padding-bottom:28px;background-size: 100%;}
+#banner>h1{font-size:6em;font-weight:90;font-variant-caps:small-caps;color:#ffffff;text-align:left;
+    text-indent: 58px;}
+#banner>h1,
+#banner>h2{width:80%;text-align:left;margin:0 auto 0 auto;color:#ffffff;padding:0; text-indent: 58px;}
+#banner>h2{font-size:2em;font-weight:100}.logo{float:left;top:5px;position:absolute}
+#banner>img{width:160px;float:right;margin-inline: 18px;}
+#img-tx{left:15px;top:170px;height:60px}
+
+

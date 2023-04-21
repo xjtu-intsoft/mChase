@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color:#f7f7f7 ;
+    margin: 0 auto;
+    width: 100%;
+    min-width: 1200px;
+
+  }
+  .column {
+    float: left;
+    padding: 20px;
+  }
+  
+  /* 左右两侧宽度 */
+  .column.left {
+    width: 95%;
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:5px;
+    padding-bottom:20px;
+    
+  }
+  .column.leftl {
+    width: 38%;
+    padding-left: 133px;
+    background-color: rgb(255, 255, 255);
+    background-clip:content-box;
+    
+  }
+  
+  /* 中间区域宽度 */
+  .column.middle {
+    width: 98%;
+    padding-left:28px;
+    padding-right:28px;
+    padding-top:5px;
+    padding-bottom:20px;}
+
+  .column.middlem {
+    width: 62%;
+    padding-right:133px;
+    background-color: rgb(255, 255, 255);
+    background-clip:content-box;
+  }
+
+.button_1{
+  background-color: #2f5578;border-radius: 13px;height:33px;width: 72%;border: 0;
+  margin-left: auto;margin-right: auto;
+  text-align: center;color: #f7f7f7;vertical-align: center;font-family:'Century Gothic'; font-size: medium;
+}
+
+.button_2{
+  background-color: #f9f9f9;border-radius: 13px;height:33px;width: 72%;border-width: 3px;
+  margin-left: auto;margin-right: auto; border-color: #2f5578;
+  text-align: center;color: #2f5578;vertical-align: center;font-family:'Century Gothic'; font-size:medium;
+}
+
+.lefttext{
+  font-family:"Calibri";
+  font-size: 15px;
+}
